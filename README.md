@@ -3,5 +3,5 @@
 # Online Presence
 - Being able to serach up your resume on the internet besides having to carry around a document or having to print one is the best in my opinion
 - Maybe having a google docs sharing link for my resume could also suffice.
-# Using
+# Use
 - Have HTML, CSS, and Javascript scripts in a reposititory to be called upon by the main page.
