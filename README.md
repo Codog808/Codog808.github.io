@@ -1,4 +1,4 @@
-# Github.io
+# github.io
 - The use of github.io to host my resume as a website
 # Online Presence
 - Being able to serach up your resume on the internet besides having to carry around a document or having to print one is the best in my opinion
